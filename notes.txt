@@ -1,2 +1,2 @@
-Don't know what to say
-hello editing this txt file
+Git is a version control system.
+It helps us track changes in our projects.
